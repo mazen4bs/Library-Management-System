@@ -1,4 +1,4 @@
-#Library Management System
+Library Management System
 Description
 1. The library contains tens of thousands of books and members which must be organized in order to
 prevent chaos. The JAVA program allows the actions needed to manage the
